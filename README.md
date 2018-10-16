@@ -8,8 +8,9 @@ start mongod + mongo shell
 
 ### Exercise 1
 
-In your server index file, build out an express server.
-In your database folder, create an index file and establish a connection to the mongo collection, and export the connection to your server.
+In your server index file, build out an express server and create a start script for it in your package.json.
+
+In your database index file, establish a connection to the mongo collection, and export the connection to your server.
 
 ### Exercise 2
 
