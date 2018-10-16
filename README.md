@@ -10,17 +10,17 @@ start mongod + mongo shell
 
 In your server index file, build out an express server and create a start script for it in your package.json.
 
-In your database index file, establish a connection to the mongo collection, and export the connection to your server.
+In your database index file, establish a connection to the mongo collection and export the connection to your server.
 
 ### Exercise 2
 
-Create a file to describe our Mongoose model.
+Create a file to describe your Mongoose model.
 Export your schema.
 
 ### Exercise 3
 
 Specify routes in the server routes file.
-Build your controller functionality in the server controller file.
+Build out your controller functionality in the server controller file.
 
 ### Exercise 4
 
