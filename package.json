@@ -1,0 +1,28 @@
+{
+  "name": "express-mongodb-review",
+  "version": "1.0.0",
+  "description": "Express-MongoDB Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilnmartin/express-mongodb-review.git"
+  },
+  "author": "Neil Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilnmartin/express-mongodb-review/issues"
+  },
+  "homepage": "https://github.com/neilnmartin/express-mongodb-review#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "helmet": "^3.14.0",
+    "mongoose": "^5.3.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4",
+    "path": "^0.12.7"
+  }
+}
