@@ -28,4 +28,4 @@ Create a file with some data that fits your schema, and write a function to seed
 
 ### Exercise 5
 
-Use an external tool such as Postman to test your database with GET, POST, PUT and DELETE requests. Check that the database is being updated with each request in your mongo shell.
+Use an external tool such as Postman to test your database with GET, POST and DELETE requests. Check that the database is being updated with each request in your mongo shell.
