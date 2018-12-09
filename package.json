@@ -4,7 +4,9 @@
   "description": "Express-MongoDB Workshop",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./database/seed/seedData.js"
   },
   "repository": {
     "type": "git",
@@ -21,8 +23,7 @@
     "express": "^4.16.4",
     "helmet": "^3.14.0",
     "mongoose": "^5.3.4",
-    "morgan": "^1.9.1",
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.18.7",
     "path": "^0.12.7"
   }
 }

@@ -4,6 +4,15 @@
 
 npm install
 
+npm install nodemon
+
+mongo //get into shell
+
+show dbs //shows current databases if inside shell
+
+brew services list
+brew services start mongodb
+
 start mongod + mongo shell
 
 ### Exercise 1
